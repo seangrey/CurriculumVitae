@@ -1,0 +1,195 @@
+@media (min-width: 992px) {
+  header.masthead h1 {
+    font-size: 4rem;
+    line-height: 4rem;
+  }
+}
+
+/* HR CSS */
+
+#hrElement {
+  max-width: 15rem;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: 0.25rem solid;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.myHR {
+  max-width: 15rem;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: 0.25rem solid;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Background */
+.bg-primary {
+  background-color: #0e0e0e !important;
+}
+
+.bg-secondary {
+  background-color: #0e0e0e !important;
+}
+
+/* Container Top */
+#topContainer {
+  margin-bottom: 13rem;
+}
+
+/* Headeing */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-family: Montserrat;
+}
+
+.eduHeader {
+  margin-top: 40px;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+/* Button */
+.btn-primary {
+  background-color: #0e0e0e;
+  border-color: #0e0e0e;
+}
+
+.btn-primary.focus,
+.btn-primary:focus,
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0000;
+  border-color: #0000;
+}
+
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover {
+  background-color: #0000;
+  border-color: #0000;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #0000;
+  border-color: #0000;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: none;
+}
+
+/* Text */
+.text-secondary {
+  color: #0e0e0e !important;
+}
+
+/* Portfolio */
+.portfolio .portfolio-item .portfolio-item-caption:hover {
+  opacity: 0;
+}
+
+/* Resume */
+
+.resumeList {
+  text-align: center;
+  font-weight: bold;
+  list-style: none;
+}
+
+/* Rows */
+.row.secondRowGallery {
+  margin-top: 15px;
+}
+
+#projectRowOne {
+  height: 19rem;
+}
+
+/* NavBar */
+.navbar-brand {
+  display: inline-block;
+  padding-top: 1rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link:hover {
+  color: red;
+}
+
+/* Logo */
+.projectLogo:hover {
+  font-size: 9rem;
+  color: red;
+}
+
+.projectLogo {
+  font-size: 10rem;
+  color: white;
+  margin: auto;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+a:active,
+a:focus,
+a:hover {
+  color: red;
+}
+
+/* Links */
+a {
+  color: red;
+}
+
+/* Facebook */
+
+#facebookProjectLogo {
+  margin: auto;
+}
+
+/* About */
+#aboutColu {
+  margin-bottom: 7rem;
+}
+
+/* Footer */
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #0e0e0e;
+  color: #fff;
+}
+
+#footerIcons {
+  margin-top: 30px;
+}
+
+.copyright {
+  background-color: #0e0e0e;
+}
