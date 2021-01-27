@@ -1,9 +1,9 @@
-#CV
+CV
 
 - A CV made using HTML / Bootstrap with inline and external CSS. 
 
 
-###Special Thanks
+Special Thanks
 
 Unsplash.com
 
