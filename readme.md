@@ -1,6 +1,6 @@
 CV
 
-- A CV made using HTML / Bootstrap with inline and external CSS. 
+- A CV made using HTML / Bootstrap. 
 
 
 Special Thanks
